@@ -1,4 +1,5 @@
 #!/bin/bash
+#this is a modification done by me.
 
 #To find the sub-directories and look for html and pdf files in them and copying them to another file-system.
 
